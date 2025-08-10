@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![minghuiqiu](https://img.shields.io/badge/minghuiqiu-github-blue?logo=github)](https://github.com/minghuiqiu)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently a graduate student in the School of Literature at Zhejiang University in Hangzhou, China. I study linguistics, with a focus on formal semantics and generative grammar.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: qiuminghui2023[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.A., Linguistics and Applied Linguistics, Zhejiang University, 2023—2026.\
+B.A., Chinese Language and Literature, Beijing Normal University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Degree Semantics, Quantification, Wh-indefinte, Approximative, Adjecive, Resultative.
 
