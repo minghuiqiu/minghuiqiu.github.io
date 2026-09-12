@@ -14,5 +14,5 @@ M.A., Linguistics and Applied Linguistics, Zhejiang University, 2023—2026.\
 B.A., Chinese Language and Literature, Beijing Normal University, 2019—2023.
 
 #### Research Interests
-Degree Semantics, Quantification, Wh-indefinte, Approximative, Adjecive, Incrementality
+Degree Semantics, Quantification, Wh-indefinte, Approximative, Adjective, Incrementality
 
