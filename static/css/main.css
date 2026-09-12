@@ -54,11 +54,6 @@ section .main-body{
     line-height: 2.4rem;
 }
 
-section .main-body li {
-    display: list-item;
-    font-weight: 400;
-}
-
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
